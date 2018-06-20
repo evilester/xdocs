@@ -1,9 +1,8 @@
-
-# VIP Java Things
+#  小麦开发手册
 
 - Standard
 - Core Libraries
 - Tools
 
-[GitHub](https://github.com/vipshop/vjtools)
 [Java开发手册](standard/)
+[Java常用库学习](library/)

@@ -1,3 +1,7 @@
-# Headline
+# 《JAVA开发箴言》
 
-> An awesome project.
+##  概述
+
+1. [《Java开发规范》](/standard/)，综合业界各公司规范标准，结合自身开发业务的需求，总结编纂而成，望能形成有效约束，更高效的开发。
+
+1. [Java常用库学习](/library/)
