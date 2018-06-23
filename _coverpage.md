@@ -5,4 +5,4 @@
 - Tools
 
 [Java开发手册](standard/)
-[Java常用库学习](library/)
+[Java常用设计](library/)
