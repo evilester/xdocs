@@ -1,2 +1,3 @@
-- [章节一](library/chapter01.md)
-- [章节二](library/chapter02.md)
+- [数据库设计](library/chapter_db.md)
+- [秒杀设计](library/chapter_seckill.md)
+- [Git进阶](library/chapter_git.md)
